@@ -1,9 +1,9 @@
+*** The Noble Quran (rich navigable plain text) ***
 Quick Help:
-  #c..# chapter
-  #v..# verse
-  #p..# page
-  #n..# footnote
-  #~n..#/#~p..# reference to footnote/page
+  #c..# chapter        #v..# verse
+  #p..# page           #n..# footnote
+  #~..# reference to footnote/page
+Chapter 1 starts at line (search for) #664#.
 
 #1# The Qur'ân, part I (Sacred Books of the East volume 6), Palmer edition [1880]; at sacred-texts.com
 
