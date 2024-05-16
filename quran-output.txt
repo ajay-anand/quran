@@ -2,13 +2,14 @@
 
 Quick Help:
   #c..# chapter
-  #v..# verse
-  #p..# page
+  #v..# verse, multiples of 5
+  #p..# page in volume 1 or 2
   #n..# footnote
   #~..# reference to footnote/page
 Chapter 1 starts at line (search for) #664#.
+Page numbers in vol. 1 start with 1 and vol. 2 start with 2.
 
-This is version 2405c.
+This is version 2405d.
 Find the latest version at github.com/ajay-anand/quran
 
 #1# The Qur'ân, part I (Sacred Books of the East volume 6), Palmer edition [1880]; at sacred-texts.com
@@ -1873,17 +1874,17 @@ Footnotes
 
 #ncxiv:1# This part of the sûrah is the second revelation after the appearance of the archangel Gabriel on Mount Hirâ; see Introduction, #~pxx#.
 
-#p1#
+#p11#
 
 #c1# THE OPENING CHAPTER. (I. Mecca.)
 
 #664# IN the name of the merciful and compassionate God.
 
-#665# Praise belongs to God, the Lord of the worlds, the merciful, the compassionate, the ruler of the day of judgment! Thee we serve and Thee we ask for aid. #v1:5# Guide us in the right path, the path of those Thou art gracious to #~n1:1#; not of those Thou art wroth with; nor of those who err.
+#665# Praise belongs to God, the Lord of the worlds, the merciful, the compassionate, the ruler of the day of judgment! Thee we serve and Thee we ask for aid. #v1:5# Guide us in the right path, the path of those Thou art gracious to #~n11:1#; not of those Thou art wroth with; nor of those who err.
 
 Footnotes
 
-#n1:1# See Preface.
+#n11:1# See Preface.
 
 #p12#
 
@@ -6349,19 +6350,19 @@ Footnotes
 
 #n1264:1# This passage refers to the killing of ‘Hamzah, Mohammed's uncle, at the battle of O‘hod, and the subsequent mutilation of his corpse by the Meccans, and is a protest against taking too severe a revenge.
 
-#p11#
+#p21#
 
-#c17# THE CHAPTER OF THE NIGHT JOURNEY #~n11:1#. (XVII. Mecca.)
+#c17# THE CHAPTER OF THE NIGHT JOURNEY #~n21:1#. (XVII. Mecca.)
 
 #2242# IN the name of the merciful and compassionate God.
 
-#2243# Celebrated be the praises of Him who took His servant a journey by night from the Sacred Mosque #~n11:2# to the Remote Mosque #~n11:3#, the precinct of which we have blessed, to show him of our signs! verily, He both hears and looks.
+#2243# Celebrated be the praises of Him who took His servant a journey by night from the Sacred Mosque #~n21:2# to the Remote Mosque #~n21:3#, the precinct of which we have blessed, to show him of our signs! verily, He both hears and looks.
 
 #2244# And we gave Moses the Book and made it a guidance to the children of Israel: 'Take ye to no guardian but me.'
 
 #2245# Seed of those we bore with Noah (in the ark)! verily, he was a thankful servant!
 
-#2246# And we decreed to the children of Israel in the Book, 'Ye shall verily do evil in the earth twice #~n11:4#, and ye shall rise to a great height (of pride).'
+#2246# And we decreed to the children of Israel in the Book, 'Ye shall verily do evil in the earth twice #~n21:4#, and ye shall rise to a great height (of pride).'
 
 #p22#
 
@@ -6579,13 +6580,13 @@ Footnotes
 
 Footnotes
 
-#n11:1# Also called 'The Children of Israel.' The subject of Mohammed's miraculous journey in one night from Mecca to Jerusalem, and his ascent into heaven, will be found discussed in the Introduction.
+#n21:1# Also called 'The Children of Israel.' The subject of Mohammed's miraculous journey in one night from Mecca to Jerusalem, and his ascent into heaven, will be found discussed in the Introduction.
 
-#n11:2# The Kaabah at Mecca.
+#n21:2# The Kaabah at Mecca.
 
-#n11:3# The Temple at Jerusalem.
+#n21:3# The Temple at Jerusalem.
 
-#n11:4# The Mohammedan commentators interpret this as referring the first to either Goliath, Sennacherib, or Nebuchadnezzar, and the latter to a second Persian invasion. The two sins committed by the Jews, and for which these punishments were threatened and executed, were, first, the murder of Isaiah and the imprisonment of Jeremiah, and the second, the murder of John the Baptist. Mohammedan views of ancient history are, however, vague.
+#n21:4# The Mohammedan commentators interpret this as referring the first to either Goliath, Sennacherib, or Nebuchadnezzar, and the latter to a second Persian invasion. The two sins committed by the Jews, and for which these punishments were threatened and executed, were, first, the murder of Isaiah and the imprisonment of Jeremiah, and the second, the murder of John the Baptist. Mohammedan views of ancient history are, however, vague.
 
 #n22:1# Supply, 'we sent foes.'
 
